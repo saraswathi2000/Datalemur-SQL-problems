@@ -1,6 +1,6 @@
 /*
 Difficulty Level : Easy
-Challenge : Data Science Skills ( LinkedIn SQL Interview Question)
+Challenge : Data Science Skills (LinkedIn SQL Interview Question)
 
 Given a table of candidates and their skills, you're tasked with finding the candidates best suited for an open Data Science job. 
 You want to find candidates who are proficient in Python, Tableau, and PostgreSQL.
