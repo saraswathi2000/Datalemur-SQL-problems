@@ -1,6 +1,6 @@
 /*
 Difficulty Level : Easy
-Challenge : [New York Times SQL Interview Question]
+Challenge : [New York Times SQL Interview Question- Datalemur]
 
 Assume that you are given the table below containing information on viewership by device type (where the three types are laptop, tablet, and phone). 
 Define “mobile” as the sum of tablet and phone viewership numbers. Write a query to compare the viewership on laptops versus mobile devices.
